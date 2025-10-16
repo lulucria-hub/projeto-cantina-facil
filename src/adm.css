@@ -42,6 +42,7 @@ nav.menu-lateral.expandir{
 
 ul{
     height: 100px;
+    list-style-type: none;
 }
 
 ul li.menu-item{
